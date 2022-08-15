@@ -1,5 +1,5 @@
 Hi, I'm Matheus Fabryny, <br>
-Software Engineer Currently working at Indra Company. 🚀
+Software Engineer, currently working at Indra Company. 🚀
 
 My current tools: <br>
 🌎 Front-end: Angular, Vuejs, React
