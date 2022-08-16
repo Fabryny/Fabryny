@@ -4,11 +4,11 @@ Software Engineer, currently working at Minsait. 🚀
 My current tools: <br>
 🌎 Front-end: Angular, Vuejs, React
 
-🛠️ Typescript, JavaScript
+🛠️ Typescript, JavaScript, NodeJs
 
 🧰 And more...
 
-💬 Find me:
+💬 More About me:
 
 <a href="https://www.linkedin.com/in/matheus-fabryny" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
