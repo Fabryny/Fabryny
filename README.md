@@ -1,4 +1,4 @@
-<strong> Hi, I'm Matheus Fabryny!</strong>
+<strong> Hi, I'm Matheus Fabryny!</strong><br>
 Software Engineer - FrontEnd Developer, currently working at Minsait. 🚀
 
 ## 🚀 My current tools: <br>
