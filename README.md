@@ -1,6 +1,6 @@
 ## Hi, I'm Matheus Fabryny!</strong><br>
 > <strong>Software Engineer - Agile FrontEnd Developer. </strong><br>
-><strong> Currently working at Minsait. </strong>
+
 
 ## 🚀 My current tools: <br>
 
