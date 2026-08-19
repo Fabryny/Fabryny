@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hi, I'm Matheus Fabryny</h1>
 
 <p align="center">
-    <em>Software Engineer · Agile Full Stack Developer - Angular & Java</em>
+    <em>Software Engineer · Agile Full Stack Developer</em>
 </p>
 
 <p align="center">
