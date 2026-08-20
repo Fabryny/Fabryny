@@ -36,9 +36,13 @@
 ---
 
 <p align="center">
+    <a href="https://portfolio-fabryny.pages.dev/">
+        🌐 <strong>Portfolio:</strong> https://portfolio-fabryny.pages.dev/
+    </a>
+    <br><br>
     <a href="https://www.linkedin.com/in/matheus-fabryny">
         <img src="https://skillicons.dev/icons?i=linkedin" width="35">
     </a>
     <br>
-   https://www.linkedin.com/in/matheus-fabryny
+    https://www.linkedin.com/in/matheus-fabryny
 </p>
